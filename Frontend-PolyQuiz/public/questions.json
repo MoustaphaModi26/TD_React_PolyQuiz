@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "categorie": "F1",
+    "libelle": "Quel pilote a remporté le plus de championnats du monde de F1 ?",
+    "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Sebastian Vettel"],
+    "bonne_reponse": "Lewis Hamilton"
+  },
+  {
+    "id": 2,
+    "categorie": "F1",
+    "libelle": "Quelle écurie domine la F1 depuis 2014 ?",
+    "options": ["Ferrari", "Red Bull", "Mercedes", "McLaren"],
+    "bonne_reponse": "Mercedes"
+  },
+  {
+    "id": 3,
+    "categorie": "MotoGP",
+    "libelle": "Qui est surnommé 'Il Dottore' en MotoGP ?",
+    "options": ["Marc Márquez", "Valentino Rossi", "Jorge Lorenzo", "Casey Stoner"],
+    "bonne_reponse": "Valentino Rossi"
+  },
+  {
+    "id": 4,
+    "categorie": "MotoGP",
+    "libelle": "Combien de titres mondiaux Valentino Rossi a-t-il remportés ?",
+    "options": ["7", "8", "9", "6"],
+    "bonne_reponse": "9"
+  },
+  {
+    "id": 5,
+    "categorie": "NBA",
+    "libelle": "Quel joueur est surnommé 'The Goat' par ses fans ?",
+    "options": ["Kobe Bryant", "LeBron James", "Michael Jordan", "Shaquille O'Neal"],
+    "bonne_reponse": "Michael Jordan"
+  },
+  {
+    "id": 6,
+    "categorie": "NBA",
+    "libelle": "Quelle franchise NBA a le plus de titres ?",
+    "options": ["Los Angeles Lakers", "Boston Celtics", "Chicago Bulls", "Golden State Warriors"],
+    "bonne_reponse": "Boston Celtics"
+  },
+  {
+    "id": 7,
+    "categorie": "Manga",
+    "libelle": "Quel est l'auteur de Dragon Ball ?",
+    "options": ["Eiichiro Oda", "Masashi Kishimoto", "Akira Toriyama", "Tite Kubo"],
+    "bonne_reponse": "Akira Toriyama"
+  },
+  {
+    "id": 8,
+    "categorie": "Manga",
+    "libelle": "Dans One Piece, quel est le rêve de Monkey D. Luffy ?",
+    "options": ["Devenir le plus fort", "Trouver le One Piece", "Sauver son frère", "Explorer le monde"],
+    "bonne_reponse": "Trouver le One Piece"
+  },
+  {
+    "id": 9,
+    "categorie": "Anime",
+    "libelle": "Dans Naruto, quel est le nom du renard à neuf queues ?",
+    "options": ["Shukaku", "Kurama", "Gyuki", "Matatabi"],
+    "bonne_reponse": "Kurama"
+  },
+  {
+    "id": 10,
+    "categorie": "Anime",
+    "libelle": "Quel studio a produit l'anime 'Demon Slayer' ?",
+    "options": ["Bones", "Madhouse", "Ufotable", "Mappa"],
+    "bonne_reponse": "Ufotable"
+  }
+]
